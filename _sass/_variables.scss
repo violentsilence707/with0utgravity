@@ -38,7 +38,7 @@ $base-lighten-color: $oc-gray-6;
 $base-lightener-color: $oc-gray-4;
 
 $background-color: $oc-lime-0;
-$background-lighten-color: hsla(210, 17%, 98%, 0.42);
+$background-lighten-color: mix($white, $oc-lime-0, 65%);
 
 $text-color: $base-color;
 $link-color: $oc-teal-8;
