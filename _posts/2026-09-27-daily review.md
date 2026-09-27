@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026-09-27 每日复盘
+title: 2026.9.27 每日复盘
 date: 2026-09-27
 Author: 百万碎片 
 tags: [日记]
